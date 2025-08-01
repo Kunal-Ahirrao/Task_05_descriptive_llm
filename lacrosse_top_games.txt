@@ -1,0 +1,39 @@
+Top 5 Highest Scoring Games:
+  Date    Opponent Score  Goals_For
+Feb 07     UALBANY  21-9         21
+Feb 18     CORNELL 18-10         18
+Apr 05  California  18-6         18
+Mar 15        Pitt 17-11         17
+Feb 15 #7 Maryland  15-9         15
+
+Top 5 Most Attended Games:
+  Date       Opponent  Attendance
+Mar 23 #20 NOTRE DAME        3622
+Mar 01    #14 CLEMSON        2899
+Mar 29   #11 VIRGINIA        2736
+Feb 18        CORNELL        2214
+Mar 07    #7 STANFORD        2165
+
+Top 5 Closest Wins:
+  Date       Opponent Score  Goal_Diff
+Mar 07    #7 STANFORD 14-13          1
+Mar 29   #11 VIRGINIA 13-12          1
+Mar 23 #20 NOTRE DAME 12-11          1
+Mar 19     #17 Loyola 14-12          2
+Feb 15    #7 Maryland  15-9          6
+
+Top 5 Closest Losses:
+  Date          Opponent Score  Goal_Diff
+Mar 10 #10 JOHNS HOPKINS 13-14         -1
+Mar 01       #14 CLEMSON   8-9         -1
+May 11  #5 Yale Bulldogs   8-9         -1
+Apr 12     Virginia Tech 11-14         -3
+Apr 02 #13 Yale Bulldogs 10-13         -3
+
+Top 5 Biggest Wins:
+  Date    Opponent Score  Goal_Diff
+Feb 07     UALBANY  21-9         12
+Apr 05  California  18-6         12
+Feb 18     CORNELL 18-10          8
+Feb 15 #7 Maryland  15-9          6
+May 09 Brown Bears  15-9          6

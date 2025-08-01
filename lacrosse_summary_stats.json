@@ -1,0 +1,70 @@
+{
+    "Total Games": 19,
+    "Wins": 10,
+    "Losses": 9,
+    "Average Goals Scored": 12.37,
+    "Average Goals Conceded": 11.63,
+    "Total Goals Scored": 235,
+    "Total Goals Conceded": 221,
+    "Most Attended Game": {
+        "Date": "Mar 23",
+        "Opponent": "#20 NOTRE DAME",
+        "Score": "12-11",
+        "W/L": "W",
+        "Location": "Home",
+        "Attendance": 3622,
+        "Goals_For": 12,
+        "Goals_Against": 11,
+        "Goal_Diff": 1
+    },
+    "Closest Win": {
+        "Date": "Mar 07",
+        "Opponent": "#7 STANFORD",
+        "Score": "14-13",
+        "W/L": "W",
+        "Location": "Home",
+        "Attendance": 2165,
+        "Goals_For": 14,
+        "Goals_Against": 13,
+        "Goal_Diff": 1
+    },
+    "Closest Loss": {
+        "Date": "Mar 10",
+        "Opponent": "#10 JOHNS HOPKINS",
+        "Score": "13-14",
+        "W/L": "L",
+        "Location": "Home",
+        "Attendance": 2049,
+        "Goals_For": 13,
+        "Goals_Against": 14,
+        "Goal_Diff": -1
+    },
+    "Biggest Win": {
+        "Date": "Apr 05",
+        "Opponent": "California",
+        "Score": "18-6",
+        "W/L": "W",
+        "Location": "Away",
+        "Attendance": 250,
+        "Goals_For": 18,
+        "Goals_Against": 6,
+        "Goal_Diff": 12
+    },
+    "Biggest Loss": {
+        "Date": "Apr 17",
+        "Opponent": "#2 BOSTON COLLEGE",
+        "Score": "2-17",
+        "W/L": "L",
+        "Location": "Home",
+        "Attendance": 1645,
+        "Goals_For": 2,
+        "Goals_Against": 17,
+        "Goal_Diff": -15
+    },
+    "Team Totals": {
+        "Goals": 235,
+        "Shots": 538,
+        "Shots on Goal": 403,
+        "Saves": 162
+    }
+}
